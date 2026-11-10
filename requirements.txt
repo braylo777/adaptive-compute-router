@@ -1,0 +1,7 @@
+torch==2.15.0
+transformers==5.22.2
+datasets==5.1.0
+numpy==2.5.4
+scipy
+scikit-learn==1.9.1
+pytest==9.2.0
